@@ -2,4 +2,4 @@
 
 PyDPF-Post cyclic examples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-These examples show how you can use PyDPF-Post features for cyclic symmetry models.
+这些示例展示了如何将 PyDPF-Post 功能用于循环对称模型。

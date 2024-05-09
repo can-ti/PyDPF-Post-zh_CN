@@ -2,4 +2,4 @@
 
 PyDPF-Post feature examples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-These examples show how you use PyDPF-Post features.
+这些示例展示了如何使用 PyDPF-Post 的功能。

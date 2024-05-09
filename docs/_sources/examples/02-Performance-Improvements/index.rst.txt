@@ -1,0 +1,83 @@
+
+
+.. _sphx_glr_examples_02-Performance-Improvements:
+
+.. _ref_perf_examples:
+
+Improve performance
+~~~~~~~~~~~~~~~~~~~
+这些示例展示了如何在必要时更有效地使用 PyDPF-Post 来提高计算性能。
+
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例显示了静态分析中网格外层的后处理。外层是实体单元，其中至少有一个面朝向几何体外部。">
+
+.. only:: html
+
+  .. image:: /examples/02-Performance-Improvements/images/thumb/sphx_glr_01-mesh-external-layer_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_02-Performance-Improvements_01-mesh-external-layer.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Reduce Model Size by using Mesh External Layer for Result and Mesh extraction</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="该示例显示了静态分析中对蒙皮网格的后处理。在重建蒙皮网格时，将使用新的 surface 单元连接 solid 网格外部蒙皮上的节点。这些 surface 单元的类型是根据所有节点都位于表皮上...">
+
+.. only:: html
+
+  .. image:: /examples/02-Performance-Improvements/images/thumb/sphx_glr_02-mesh-skin_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_02-Performance-Improvements_02-mesh-skin.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Reduce Model Size by using Mesh Skin for Result and Mesh extraction</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="此示例显示以下各项之间的后处理比较：  - 仅在外层提取结果和网格。  - 在整个网格上提取结果和网格。">
+
+.. only:: html
+
+  .. image:: /examples/02-Performance-Improvements/images/thumb/sphx_glr_03-mesh-external-layer-compare_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_02-Performance-Improvements_03-mesh-external-layer-compare.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Validate External Layer results with full Mesh</div>
+    </div>
+
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /examples/02-Performance-Improvements/01-mesh-external-layer
+   /examples/02-Performance-Improvements/02-mesh-skin
+   /examples/02-Performance-Improvements/03-mesh-external-layer-compare
+

@@ -79,6 +79,7 @@ extensions = [
     "sphinx.ext.todo",
     "sphinx_copybutton",
     "sphinx_gallery.gen_gallery",
+       "sphinx.ext.githubpages", # 这个插件会为生成后的文档添加 .nojekyll 文件， 也会为 GitHub Pages 自定义域名添加 CNAME 文件。 如果没有 .nojekyll， GitHub Pages 会认为 _ 开头的文件夹是 jekyll 内部文件夹， 然后将它过滤掉。
 ]
 
 typehints_defaults = "comma"
@@ -324,3 +325,7 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ["search.html"]
+
+# ff
+source_encoding = 'utf-8'
+autodoc_encoding = 'utf-8'

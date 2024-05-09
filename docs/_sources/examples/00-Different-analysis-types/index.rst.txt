@@ -1,0 +1,101 @@
+
+
+.. _sphx_glr_examples_00-Different-analysis-types:
+
+.. _ref_different_analysis:
+
+PyDPF-Post analysis types
+~~~~~~~~~~~~~~~~~~~~~~~~~
+这些示例展示了如何使用 PyDPF-Post 对不同类型的仿真进行后处理。
+
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="在该脚本中，将对静态模拟进行处理，以提取应力、位移等结果。此外，还可通过对特定节点或单元进行扫描来选择结果的子部分。">
+
+.. only:: html
+
+  .. image:: /examples/00-Different-analysis-types/images/thumb/sphx_glr_01-static-simulation_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_00-Different-analysis-types_01-static-simulation.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Static Simulation</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例中显示了查看不同振型等简单的后处理操作。">
+
+.. only:: html
+
+  .. image:: /examples/00-Different-analysis-types/images/thumb/sphx_glr_02-modal-simulation_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_00-Different-analysis-types_02-modal-simulation.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Modal Simulation</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="该脚本对瞬态模拟进行处理，以提取应力、应变和位移等结果。 此外，还可提取所选时间步长的数据并显示动画。">
+
+.. only:: html
+
+  .. image:: /examples/00-Different-analysis-types/images/thumb/sphx_glr_03-transient-simulation_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_00-Different-analysis-types_03-transient-simulation.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Transient Simulation with Animation</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本脚本对谐波模拟进行了处理，并使用了更复杂的结果。">
+
+.. only:: html
+
+  .. image:: /examples/00-Different-analysis-types/images/thumb/sphx_glr_04-harmonic-complex-results_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_00-Different-analysis-types_04-harmonic-complex-results.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Harmonic Simulation</div>
+    </div>
+
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /examples/00-Different-analysis-types/01-static-simulation
+   /examples/00-Different-analysis-types/02-modal-simulation
+   /examples/00-Different-analysis-types/03-transient-simulation
+   /examples/00-Different-analysis-types/04-harmonic-complex-results
+

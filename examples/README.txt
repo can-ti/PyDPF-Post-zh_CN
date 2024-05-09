@@ -4,6 +4,4 @@
 Examples
 ========
 
-End-to-end examples show how you can use PyDPF-Post. If PyDPF-Post is installed
-on your machine, you can download these examples as Python files or Jupyter
-notebooks and run them locally.
+End-to-end 示例展示了如何使用 PyDPF-Post。如果您的计算机上安装了 PyDPF-Post，您可以将这些示例下载为 Python 文件或 Jupyter-lab，然后在本地运行。

@@ -2,4 +2,4 @@
 
 PyDPF-Post legacy examples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-These examples show how you use the legacy PyDPF-Post API.
+这些示例展示了如何使用传统的 PyDPF-Post API。

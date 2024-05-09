@@ -1,0 +1,227 @@
+
+
+.. _sphx_glr_examples_05-Legacy:
+
+.. _ref_legacy_examples:
+
+PyDPF-Post legacy examples
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+这些示例展示了如何使用传统的 PyDPF-Post API。
+
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例概述了如何使用 PyDPF-Post。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_00-overview_example_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_00-overview_example.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">PyDPF-Post overview</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例演示了如何从先前存储的静态模拟中请求数据。可以列出可用结果，查看可以检索到哪些结果。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_01-get_data_from_static_simulation_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_01-get_data_from_static_simulation.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Get data from static simulation</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Introduction">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_02-introduction_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_02-introduction.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Introduction</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例展示了如何使用 PyDPF-Post 对模态分析结果文件进行后处理。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_03-modal-analysis_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_03-modal-analysis.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Modal analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例展示了如何使用 PyDPF-Post 对谐波分析结果文件进行后处理。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_04-harmonic-analysis_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_04-harmonic-analysis.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Harmonic analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例展示了如何使用 PyDPF-Post 对静态分析的结果文件进行后处理。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_05-static-analysis_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_05-static-analysis.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Static analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This example shows how you can access complex results from a modal or harmonic analysis.">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_06-complex_results_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_06-complex_results.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Complex results from a modal or harmonic analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="此示例演示如何在从 Solution 对象调用 result 对象时使用关键字获得更精确的结果。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_07-result_keywords_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_07-result_keywords.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Result keywords</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例展示了如何请求特定坐标路径的结果。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_08-result_on_path_of_coordinates_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_08-result_on_path_of_coordinates.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Request result on a specific path</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例向您展示如何获取和使用 Result 对象。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_09-basics_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_09-basics.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Basic features</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="本例展示了如何使用 PyDPF-Post 对瞬态分析结果文件进行后处理。">
+
+.. only:: html
+
+  .. image:: /examples/05-Legacy/images/thumb/sphx_glr_10-transient-analysis_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_05-Legacy_10-transient-analysis.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Transient analysis</div>
+    </div>
+
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /examples/05-Legacy/00-overview_example
+   /examples/05-Legacy/01-get_data_from_static_simulation
+   /examples/05-Legacy/02-introduction
+   /examples/05-Legacy/03-modal-analysis
+   /examples/05-Legacy/04-harmonic-analysis
+   /examples/05-Legacy/05-static-analysis
+   /examples/05-Legacy/06-complex_results
+   /examples/05-Legacy/07-result_keywords
+   /examples/05-Legacy/08-result_on_path_of_coordinates
+   /examples/05-Legacy/09-basics
+   /examples/05-Legacy/10-transient-analysis
+
